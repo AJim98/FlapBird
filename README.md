@@ -7,8 +7,7 @@
    - 1.2 [Goal of project](#Goal-of-project)
    - 1.3 [What I learnt](#What-I-learnt)
 2. [How to play Flappy Bird](#How-to-play-Flappy-Bird)
-3. [Technologies Used)(#Technologies-Used)
-
+3. [Technologies Used](#Technologies-Used)
 
 ## 1. Description
 ### 1.1 About
